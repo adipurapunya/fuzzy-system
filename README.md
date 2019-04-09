@@ -5,7 +5,7 @@ Of the two inputs it will produce one value, that is x minutes the tap must be o
 
 
 Stack: - Python 3.6 - PyCharm IDE - Windows 10 Professional 
-Reference: - Suyanto, Artificial Intelligence: Searching-Reasoning-Planning-Learning, Informatics, Bandung, 2014. 
+<br>Reference: - Suyanto, Artificial Intelligence: Searching-Reasoning-Planning-Learning, Informatics, Bandung, 2014. 
 
 
 Contact Person: - email: adipurapunya@gmail.com
